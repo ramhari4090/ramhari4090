@@ -1,3 +1,1 @@
-### Hi there 👋
-
-### Wassup ?
+## A second-level heading
