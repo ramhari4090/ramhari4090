@@ -1,4 +1,4 @@
-## Hi, I'm Hariram :wave:
+# Hi, I'm Hariram :wave:
 
 **I am a full-stack front-end engineer and designer**
 
@@ -8,5 +8,5 @@ Have worked on a variety of projects, ranging from small websites to large web a
 
 A team player and always willing to go the extra mile to ensure that the work meets the highest standards. Constantly learning and staying up to date with the latest trends in the industry, and always looking for ways to improve the skills and knowledge.
 
-### Social 
+## Social
 You can find me on the follwing social media platform or send me an email
