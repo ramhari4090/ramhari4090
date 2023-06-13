@@ -1,12 +1,24 @@
-# Hi, I'm Hariram :wave:
+# Hello there! :wave:
 
-**I am a full-stack front-end engineer and designer**
+I'm Hariram, welcome to my GitHub profile, where creativity meets functionality! I'm a passionate front-end developer and UI designer, dedicated to crafting engaging and visually stunning user experiences. Through this platform, I aim to showcase my skills, share my projects, and collaborate with like-minded individuals in the world of web development and design.
 
-Skilled UI/UX designer and frontend developer with over 5 years of experience in the industry. Have strong understanding of the latest technologies, including HTML5, CSS3, JavaScript, and React. Proficient in popular design frameworks such as Semantic UI, Material UI, and Bootstrap, and also an expert in using Figma for design and prototyping.
+## About Me:
 
-Have worked on a variety of projects, ranging from small websites to large web applications. Have a keen eye for design and is able to translate business requirements into visually appealing and user-friendly interfaces. Also a skilled frontend developer, able to turn designs into functional web pages using clean and efficient code.
+With a strong background in front-end development and a keen eye for aesthetics, I strive to create seamless and intuitive interfaces that captivate users. I am well-versed in the latest web technologies, including HTML, CSS, JavaScript, and various front-end frameworks like React and Vue.js. In addition, I have a solid understanding of design principles, color theory, typography, and user-centered design.
 
-A team player and always willing to go the extra mile to ensure that the work meets the highest standards. Constantly learning and staying up to date with the latest trends in the industry, and always looking for ways to improve the skills and knowledge.
+## My Projects:
+
+Within my GitHub repositories, you'll find a diverse range of projects that demonstrate my technical proficiency and design sensibilities. I enjoy working on both personal and collaborative projects, and I'm always seeking opportunities to expand my skill set. From responsive websites and interactive prototypes to UI component libraries and mobile applications, my projects reflect my commitment to innovation and user-centric design.
+
+## Collaboration and Contributions:
+
+I believe in the power of collaboration and open-source development. I'm always eager to collaborate on exciting projects, contribute to meaningful initiatives, or join teams that value creativity and attention to detail. If you're interested in working together or have any feedback on my projects, please don't hesitate to reach out.
+
+## Let's Connect:
+
+Aside from GitHub, you can also find me on various other platforms where I share insights, tutorials, and design inspiration. I'm an active member of the development community, always seeking to learn and grow alongside fellow developers and designers. Don't hesitate to connect with me on LinkedIn, Twitter, or my personal website.
+
+Thank you for taking the time to explore my GitHub profile. I hope my projects inspire you, and I look forward to collaborating and connecting with you in this ever-evolving digital landscape. Let's create amazing experiences together!
 
 ## Social
 You can find me on the follwing social media platform or send me an email:
