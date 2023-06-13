@@ -4,7 +4,7 @@ I'm Hariram, welcome to my GitHub profile, where creativity meets functionality!
 
 ## About Me:
 
-With a strong background in front-end development and a keen eye for aesthetics, I strive to create seamless and intuitive interfaces that captivate users. I am well-versed in the latest web technologies, including HTML, CSS, JavaScript, and various front-end frameworks like React and Vue.js. In addition, I have a solid understanding of design principles, color theory, typography, and user-centered design.
+With a strong background in front-end development and a keen eye for aesthetics, I strive to create seamless and intuitive interfaces that captivate users. I am well-versed in the latest web technologies, including HTML, CSS, JavaScript, and various front-end frameworks like React. In addition, I have a solid understanding of design principles, color theory, typography, and user-centered design.
 
 ## My Projects:
 
