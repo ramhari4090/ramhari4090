@@ -15,5 +15,5 @@ You can find me on the follwing social media platform or send me an email:
 - :speaking_head: [Twitter](https://twitter.com/ramhari4090)
 - :camera_flash: [Instagram](https://www.instagram.com/_.ram_hari._/)
 - :e-mail: ramhari4090@gmail.com 
-- :globe_with_meridians: hariram.dev (https://www.hariram.dev)
+- :globe_with_meridians: hariram.dev(https://www.hariram.dev)
 
